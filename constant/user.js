@@ -1,0 +1,5 @@
+export const REGISTER = 'REGISTER';
+export const SET_ACTIVE_USER_MESSAGE = 'SET_ACTIVE_USER_MESSAGE';
+export const GET_PROFILE = 'GET_PROFILE';
+export const UPDATE_PASSWORD = 'UPDATE_PASSWORD';
+

@@ -1,0 +1,220 @@
+.doccument-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #3190ff;
+}
+
+.checked {
+    color: #ffeb00 !important;
+}
+
+.star {
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    cursor: pointer;
+}
+
+.btn-customs {
+    padding: 18px 56px;
+    background-color: #ffeb00;
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.btn-download {
+    text-align: left;
+}
+
+.doc-info p {
+    color: #515151;
+}
+
+.sp-warning {
+    color: red;
+    line-height: 3.5;
+}
+
+.doc-details {
+    bottom: -35px;
+}
+
+.plugin-view-doc {
+    width: 100%;
+    height: 544px;
+    background-color: #ddd;
+}
+
+.file-download {
+    background-color: #cccccc;
+}
+
+.recommend {
+    float: left;
+}
+
+.recommend h2 {
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #3190ff;
+}
+
+.folder-title a {
+    color: #515151;
+}
+
+.item-details {
+    float: left;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.item-details img {
+    width: 100%;
+}
+
+.folder-title a {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: left;
+    color: #505050;
+}
+
+.doc-title {
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #3190ff
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.sidebar .doc-list {
+    font-size: 12px;
+}
+
+.sidebar-detail ul li:nth-child(odd) {
+    background-color: #f1eeee !important;
+}
+
+
+/* Modal */
+
+.dialog-error {
+    max-width: 1000px !important;
+}
+
+.dialog-error .modal-head-err {
+    padding: 46px 0px;
+    background-color: #eb001b !important;
+}
+
+.modal-head-down-success {
+    padding: 46px 0px;
+    background-color: #3190ff !important;
+}
+
+.err-info {
+    font-size: 20px;
+    font-weight: normal;
+    color: #505050;
+}
+
+.tks-for-cash {
+    font-size: 24px;
+    font-weight: normal;
+    color: #505050;
+}
+
+.cash-done {
+    padding: 46px 0px;
+    background-color: #44d560 !important;
+}
+
+
+/* REGISTER VIP */
+
+.modal-vip {
+    padding-top: 0px !important;
+}
+
+.modal-vip p {
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+    color: #505050;
+}
+
+.btn-vip {
+    width: 259px;
+    padding: 15px 0px;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.modal-open .modal {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.fade.show {
+    opacity: 1;
+}
+
+.modal {
+    z-index: 1072;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    outline: 0;
+    background: #00000061;
+}
+
+.modal-dialog.modal-dialog-centered{
+    background: #ffffff;
+}
+
+.modal-login .modal-heads{
+    background: #ff8e33;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.modal-login .modal-bodys{
+
+}

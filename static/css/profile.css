@@ -1,0 +1,47 @@
+.content .sidebar ul li {
+    width: 100%;
+}
+
+.update-profile-btn {
+    font-size: 17px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    background-color: #ff8e33;
+    padding: 0 90px;
+    border: none;
+    cursor: pointer;
+}
+
+.change-pass-tab h2 {
+    text-align: center;
+    color: #3190ff;
+}
+
+.change-pass-tab input {
+    border: none;
+    background-color: #f1f1f1;
+    border-radius: 0;
+}
+
+.change-pass-tab textarea {
+    border: none;
+    background-color: #f1f1f1;
+    border-radius: 0;
+}
+
+.change-pass-tab select {
+    border: none;
+    background-color: #f1f1f1;
+    border-radius: 0;
+}
+
+.change-pass-tab label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #505050;
+}

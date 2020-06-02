@@ -1,0 +1,13 @@
+export const MESSAGE_LOGIN_ERROR = 'Tài khoản hoặc mật khẩu không đúng';
+export const MESSAGE_USER_NOT_FOUND = 'Tài khoản không tồn tại.';
+export const MESSAGE_LOGIN_NOT_ACTIVE = 'Vui lòng kích hoạt tài khoản để đăng nhập';
+export const MESSAGE_REGISTER_ERROR = 'Tài khoản hoặc email đã tồn tại! Xin vui lòng kiểm tra lại';
+export const MESSAGE_REGISTER_SUCCESS = 'Đăng kí tài khoản thành công. Vui lòng kiểm tra địa chỉ email để kích hoạt tài khoản.';
+export const MESSAGE_TOKEN_INVALID = 'Token không hợp lệ';
+export const MESSAGE_TOKEN_ACTIVE_VALID = 'Tài khoản của bạn đã được kích hoạt thành công';
+export const MESSAGE_FORGET_PASSWORD = 'Vui lòng kiểm tra email để tiến hành lấy lại mật khẩu.';
+export const MESSAGE_RESET_PASSWORD_SUCCESS= 'Đổi mật khẩu thành công.';
+export const MESSAGE_UPDATE_PASSWORD_FAIL= 'Đổi mật khẩu thất bại.';
+export const MESSAGE_UPDATE_PASSWORD_SUCCESS= 'Đổi mật khẩu thành công.';
+export const MESSAGE_UPDATE_PROFILE_FAIL= 'Cập nhật thất bại.';
+export const MESSAGE_UPDATE_PROFILE_SUCCESS= 'Cập nhật thành công.';
